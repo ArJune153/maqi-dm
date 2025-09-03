@@ -643,6 +643,12 @@ body {
   filter: drop-shadow(0 0 20px rgb(0, 255, 106));
 }
 
+ @media (min-width: 500px) {
+  .img-logo{
+    width: 20%;
+  }
+}
+
 /* ข้อความที่กระพริบ */
 .text1 {
   font-size: 2.2rem;
